@@ -1,0 +1,953 @@
+{
+  "users": {
+    "9zXDOMN8BWd6HDY763yjEPLCtBF2": {
+      "uid": "9zXDOMN8BWd6HDY763yjEPLCtBF2",
+      "email": "stechnical121@gmail.com",
+      "display_name": "Last clue gamerz",
+      "photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ42S1lPFExaTRKeBsyACwLJiRY6SnccOSY8Viik8TyZ22fQKc=s96-c",
+      "user_id": "usr-aea8e950709e",
+      "username": "pohkjkhvfeff",
+      "role": "student",
+      "experience_level": "intermediate",
+      "bio": "",
+      "things_i_love": [
+        "Artificial Intelligence",
+        "Autonomous Vehicles",
+        "FinTech & DeFi",
+        "Poetry",
+        "Robotics & Hardware"
+      ],
+      "location": "janakpur",
+      "contact_email": null,
+      "social_links": {},
+      "avatar_path": "C:\\Users\\khushi\\Downloads\\public work\\platform with UI\\backend\\uploads\\avatars\\9zXDOMN8BWd6HDY763yjEPLCtBF2\\avatar.jpg",
+      "avatar_url": "/media/avatars/9zXDOMN8BWd6HDY763yjEPLCtBF2/avatar.jpg",
+      "interests": [
+        "ai",
+        "autonomous",
+        "fintech",
+        "robotics",
+        "poetry"
+      ],
+      "content_tastes": [
+        "deep_dives"
+      ],
+      "followed_authors": [
+        "dSWgAO98YpgzO1xp6GYCTmNuqhA3"
+      ],
+      "onboarding_completed": true,
+      "terms_accepted_at": "2026-08-16T16:38:14.116880",
+      "terms_version": "2026-08-16",
+      "ideas_count": 1,
+      "likes_received_count": 6,
+      "followers_count": 1,
+      "following_count": 1,
+      "ai_profile_metadata": {
+        "topic_affinities": {
+          "ai": 1.0,
+          "autonomous": 1.0,
+          "fintech": 1.0,
+          "robotics": 1.0,
+          "poetry": 1.0
+        },
+        "embedding_id": "emb-9zXDOMN8BWd6HDY763yjEPLCtBF2",
+        "role_affinity": "student",
+        "content_tastes": [
+          "deep_dives"
+        ],
+        "model_version": "v1-deterministic-hybrid",
+        "interaction_weights": {
+          "views": 1.0,
+          "likes": 5.0,
+          "comments": 10.0,
+          "shares": 20.0
+        }
+      },
+      "created_at": "2026-08-16T16:35:38.141666",
+      "updated_at": "2026-08-16T16:41:50.289952"
+    },
+    "dSWgAO98YpgzO1xp6GYCTmNuqhA3": {
+      "uid": "dSWgAO98YpgzO1xp6GYCTmNuqhA3",
+      "email": "highlightsbold@gmail.com",
+      "display_name": "Bold Highlights",
+      "photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJR4QsIjNkDfuDSISGgumNkHbRn3Sbs9Y9Qm2qu0U0Ws41M4MI=s96-c",
+      "user_id": "usr-9f60b98c409d",
+      "username": "dogesh_bhai",
+      "role": "explorer",
+      "experience_level": "intermediate",
+      "bio": "",
+      "things_i_love": [
+        "Photography",
+        "Poetry",
+        "Quantum Computing"
+      ],
+      "location": null,
+      "contact_email": null,
+      "social_links": {},
+      "avatar_path": null,
+      "avatar_url": null,
+      "interests": [
+        "poetry",
+        "photography",
+        "quantum"
+      ],
+      "content_tastes": [
+        "deep_dives",
+        "breakthroughs",
+        "debates",
+        "startups"
+      ],
+      "followed_authors": [
+        "9zXDOMN8BWd6HDY763yjEPLCtBF2"
+      ],
+      "onboarding_completed": true,
+      "terms_accepted_at": "2026-08-16T16:44:45.259453",
+      "terms_version": "2026-08-16",
+      "ideas_count": 0,
+      "likes_received_count": 0,
+      "followers_count": 1,
+      "following_count": 1,
+      "ai_profile_metadata": {
+        "topic_affinities": {
+          "poetry": 1.0,
+          "photography": 1.0,
+          "quantum": 1.0
+        },
+        "embedding_id": "emb-dSWgAO98YpgzO1xp6GYCTmNuqhA3",
+        "role_affinity": "explorer",
+        "content_tastes": [
+          "deep_dives",
+          "breakthroughs",
+          "debates",
+          "startups"
+        ],
+        "model_version": "v1-deterministic-hybrid",
+        "interaction_weights": {
+          "views": 1.0,
+          "likes": 5.0,
+          "comments": 10.0,
+          "shares": 20.0
+        }
+      },
+      "created_at": "2026-08-16T16:43:44.370017",
+      "updated_at": "2026-08-16T16:44:45.259453"
+    }
+  },
+  "usernames": {
+    "pohkjkhvfeff": "9zXDOMN8BWd6HDY763yjEPLCtBF2",
+    "dogesh_bhai": "dSWgAO98YpgzO1xp6GYCTmNuqhA3"
+  },
+  "user_ids": {
+    "usr-aea8e950709e": "9zXDOMN8BWd6HDY763yjEPLCtBF2",
+    "usr-9f60b98c409d": "dSWgAO98YpgzO1xp6GYCTmNuqhA3"
+  },
+  "posts": {
+    "idea-713339c1": {
+      "id": "idea-713339c1",
+      "title": "my photo created by ai",
+      "text": "hey guys its me",
+      "summary": "hey guys its me",
+      "author_id": "9zXDOMN8BWd6HDY763yjEPLCtBF2",
+      "author_name": "Last clue gamerz",
+      "author_handle": "pohkjkhvfeff",
+      "author_photo": "https://lh3.googleusercontent.com/a/ACg8ocJ42S1lPFExaTRKeBsyACwLJiRY6SnccOSY8Viik8TyZ22fQKc=s96-c",
+      "topics": [
+        "ai image"
+      ],
+      "image_url": null,
+      "image_path": null,
+      "image_urls": [
+        "/media/posts/upload-c77ca7491a18/img_961333f5.jpg"
+      ],
+      "deleted": false,
+      "stats": {
+        "likes": 2,
+        "fires": 0,
+        "bulbs": 1,
+        "comments": 0,
+        "shares": 1,
+        "views": 6,
+        "hides": 0,
+        "ranking_score": 0.0
+      },
+      "created_at": "2026-08-16T16:39:47.814051",
+      "updated_at": "2026-08-16T16:39:47.814051"
+    }
+  },
+  "comments": {},
+  "reactions": {
+    "idea-713339c1:9zXDOMN8BWd6HDY763yjEPLCtBF2": [
+      "like"
+    ],
+    "idea-713339c1:dSWgAO98YpgzO1xp6GYCTmNuqhA3": [
+      "like",
+      "bulb"
+    ]
+  },
+  "comment_likes": {},
+  "hides": {},
+  "follows": {
+    "dSWgAO98YpgzO1xp6GYCTmNuqhA3": [
+      "9zXDOMN8BWd6HDY763yjEPLCtBF2"
+    ],
+    "9zXDOMN8BWd6HDY763yjEPLCtBF2": [
+      "dSWgAO98YpgzO1xp6GYCTmNuqhA3"
+    ]
+  },
+  "followers": {
+    "9zXDOMN8BWd6HDY763yjEPLCtBF2": [
+      "dSWgAO98YpgzO1xp6GYCTmNuqhA3"
+    ],
+    "dSWgAO98YpgzO1xp6GYCTmNuqhA3": [
+      "9zXDOMN8BWd6HDY763yjEPLCtBF2"
+    ]
+  },
+  "user_timelines": {
+    "dSWgAO98YpgzO1xp6GYCTmNuqhA3": [
+      "idea-713339c1"
+    ],
+    "9zXDOMN8BWd6HDY763yjEPLCtBF2": []
+  },
+  "categories": {
+    "ai": {
+      "id": "ai",
+      "name": "Artificial Intelligence",
+      "icon": "🤖",
+      "description": "LLMs, autonomous agents, neural architectures & AI safety.",
+      "posts_count": 0,
+      "followers_count": 0,
+      "color": "#6366f1"
+    },
+    "robotics": {
+      "id": "robotics",
+      "name": "Robotics & Hardware",
+      "icon": "🦾",
+      "description": "Humanoid robots, spatial computing, mechatronics and sensors.",
+      "posts_count": 0,
+      "followers_count": 0,
+      "color": "#f59e0b"
+    },
+    "design": {
+      "id": "design",
+      "name": "UI/UX & Product Design",
+      "icon": "🎨",
+      "description": "Micro-interactions, spatial UI, typography, and human-computer interfaces.",
+      "posts_count": 0,
+      "followers_count": 0,
+      "color": "#ec4899"
+    },
+    "neuroscience": {
+      "id": "neuroscience",
+      "name": "Neuroscience & BCI",
+      "icon": "🧠",
+      "description": "Brain-computer interfaces, neural prosthetics, and cognitive models.",
+      "posts_count": 0,
+      "followers_count": 0,
+      "color": "#a855f7"
+    },
+    "cleantech": {
+      "id": "cleantech",
+      "name": "CleanTech & Energy",
+      "icon": "⚡",
+      "description": "Fusion power, solid-state batteries, and carbon removal technologies.",
+      "posts_count": 0,
+      "followers_count": 0,
+      "color": "#22c55e"
+    },
+    "biotech": {
+      "id": "biotech",
+      "name": "Biotech & Longevity",
+      "icon": "🧬",
+      "description": "CRISPR gene editing, synthetic biology, and cellular rejuvenation.",
+      "posts_count": 0,
+      "followers_count": 0,
+      "color": "#10b981"
+    },
+    "space": {
+      "id": "space",
+      "name": "Space Exploration",
+      "icon": "🚀",
+      "description": "Orbital logistics, deep space probes, asteroid mining, and habitat engineering.",
+      "posts_count": 0,
+      "followers_count": 0,
+      "color": "#3b82f6"
+    },
+    "web3": {
+      "id": "web3",
+      "name": "Decentralized Systems",
+      "icon": "🌐",
+      "description": "Zero-knowledge proofs, decentralized identity, and peer-to-peer compute.",
+      "posts_count": 0,
+      "followers_count": 0,
+      "color": "#f97316"
+    },
+    "quantum": {
+      "id": "quantum",
+      "name": "Quantum Computing",
+      "icon": "⚛️",
+      "description": "Qubits, quantum error correction, variational algorithms, and photonic chips.",
+      "posts_count": 0,
+      "followers_count": 0,
+      "color": "#06b6d4"
+    },
+    "cybersecurity": {
+      "id": "cybersecurity",
+      "name": "Cybersecurity & Privacy",
+      "icon": "🔐",
+      "description": "Zero-trust architectures, post-quantum cryptography, and threat intelligence.",
+      "posts_count": 0,
+      "followers_count": 0,
+      "color": "#ef4444"
+    },
+    "devtools": {
+      "id": "devtools",
+      "name": "Developer Tools",
+      "icon": "🛠️",
+      "description": "IDEs, compilers, CI/CD, observability, and the future of programming.",
+      "posts_count": 0,
+      "followers_count": 0,
+      "color": "#8b5cf6"
+    },
+    "opensouce": {
+      "id": "opensouce",
+      "name": "Open Source",
+      "icon": "🌍",
+      "description": "Community-driven software, governance models, and sustainable open ecosystems.",
+      "posts_count": 0,
+      "followers_count": 0,
+      "color": "#14b8a6"
+    },
+    "arvr": {
+      "id": "arvr",
+      "name": "AR / VR / XR",
+      "icon": "🥽",
+      "description": "Spatial computing, mixed reality, haptics, and immersive digital worlds.",
+      "posts_count": 0,
+      "followers_count": 0,
+      "color": "#d946ef"
+    },
+    "gaming": {
+      "id": "gaming",
+      "name": "Gaming & Simulation",
+      "icon": "🎮",
+      "description": "Game AI, physics engines, procedural generation, and esports technology.",
+      "posts_count": 0,
+      "followers_count": 0,
+      "color": "#f43f5e"
+    },
+    "healthtech": {
+      "id": "healthtech",
+      "name": "HealthTech & MedTech",
+      "icon": "🏥",
+      "description": "Digital diagnostics, AI-assisted surgery, wearable health monitoring.",
+      "posts_count": 0,
+      "followers_count": 0,
+      "color": "#0ea5e9"
+    },
+    "mentalhealth": {
+      "id": "mentalhealth",
+      "name": "Mental Health Tech",
+      "icon": "🧘",
+      "description": "Digital therapeutics, AI-driven CBT tools, and neurological wellness.",
+      "posts_count": 0,
+      "followers_count": 0,
+      "color": "#a78bfa"
+    },
+    "longevity": {
+      "id": "longevity",
+      "name": "Longevity Science",
+      "icon": "⏳",
+      "description": "Epigenetic clocks, senolytics, telomere biology, and aging reversal research.",
+      "posts_count": 0,
+      "followers_count": 0,
+      "color": "#fb923c"
+    },
+    "nanotech": {
+      "id": "nanotech",
+      "name": "Nanotechnology",
+      "icon": "🔬",
+      "description": "Molecular machines, nano-drug delivery, and atomically precise manufacturing.",
+      "posts_count": 0,
+      "followers_count": 0,
+      "color": "#4ade80"
+    },
+    "materials": {
+      "id": "materials",
+      "name": "Materials Science",
+      "icon": "🪨",
+      "description": "Metamaterials, 2D crystals, high-entropy alloys, and programmable matter.",
+      "posts_count": 0,
+      "followers_count": 0,
+      "color": "#fbbf24"
+    },
+    "autonomous": {
+      "id": "autonomous",
+      "name": "Autonomous Vehicles",
+      "icon": "🚗",
+      "description": "Self-driving stacks, sensor fusion, V2X communication, and robotaxis.",
+      "posts_count": 0,
+      "followers_count": 0,
+      "color": "#38bdf8"
+    },
+    "smartcities": {
+      "id": "smartcities",
+      "name": "Smart Cities",
+      "icon": "🏙️",
+      "description": "Urban AI, IoT infrastructure, autonomous logistics, and digital twins.",
+      "posts_count": 0,
+      "followers_count": 0,
+      "color": "#60a5fa"
+    },
+    "wearables": {
+      "id": "wearables",
+      "name": "Wearables & Sensors",
+      "icon": "⌚",
+      "description": "Continuous health monitoring, smart textiles, and body-area networks.",
+      "posts_count": 0,
+      "followers_count": 0,
+      "color": "#34d399"
+    },
+    "fintech": {
+      "id": "fintech",
+      "name": "FinTech & DeFi",
+      "icon": "💳",
+      "description": "Embedded finance, real-time payments, algorithmic trading, and DeFi protocols.",
+      "posts_count": 0,
+      "followers_count": 0,
+      "color": "#fde68a"
+    },
+    "edtech": {
+      "id": "edtech",
+      "name": "EdTech & Learning",
+      "icon": "📚",
+      "description": "Personalized learning, AI tutors, spaced repetition, and knowledge graphs.",
+      "posts_count": 0,
+      "followers_count": 0,
+      "color": "#86efac"
+    },
+    "climate": {
+      "id": "climate",
+      "name": "Climate Science",
+      "icon": "🌡️",
+      "description": "Climate modeling, geoengineering proposals, and carbon accounting systems.",
+      "posts_count": 0,
+      "followers_count": 0,
+      "color": "#6ee7b7"
+    },
+    "agritech": {
+      "id": "agritech",
+      "name": "AgriTech & Food",
+      "icon": "🌱",
+      "description": "Vertical farming, precision agriculture, lab-grown proteins, and food tech.",
+      "posts_count": 0,
+      "followers_count": 0,
+      "color": "#bbf7d0"
+    },
+    "oceantech": {
+      "id": "oceantech",
+      "name": "Ocean & Marine Tech",
+      "icon": "🌊",
+      "description": "Underwater robotics, ocean energy harvesting, and marine ecosystem monitoring.",
+      "posts_count": 0,
+      "followers_count": 0,
+      "color": "#7dd3fc"
+    },
+    "supplychain": {
+      "id": "supplychain",
+      "name": "Supply Chain & Logistics",
+      "icon": "🏭",
+      "description": "Autonomous warehouses, predictive shipping, and resilient supply networks.",
+      "posts_count": 0,
+      "followers_count": 0,
+      "color": "#d1d5db"
+    },
+    "ethicsai": {
+      "id": "ethicsai",
+      "name": "AI Ethics & Governance",
+      "icon": "⚖️",
+      "description": "Alignment, bias, copyright, transparency, and the governance of intelligence.",
+      "posts_count": 0,
+      "followers_count": 0,
+      "color": "#fca5a5"
+    },
+    "philosophy": {
+      "id": "philosophy",
+      "name": "Philosophy of Mind",
+      "icon": "💭",
+      "description": "Consciousness, qualia, embodied cognition, and the hard problem.",
+      "posts_count": 0,
+      "followers_count": 0,
+      "color": "#c4b5fd"
+    },
+    "syntheticmedia": {
+      "id": "syntheticmedia",
+      "name": "Synthetic Media & AI Art",
+      "icon": "🎭",
+      "description": "Generative art, deepfakes, AI music, and new creative economies.",
+      "posts_count": 0,
+      "followers_count": 0,
+      "color": "#f9a8d4"
+    },
+    "futureofwork": {
+      "id": "futureofwork",
+      "name": "Future of Work",
+      "icon": "💼",
+      "description": "Distributed teams, human-AI collaboration, creator economies, and new labour models.",
+      "posts_count": 0,
+      "followers_count": 0,
+      "color": "#fde68a"
+    },
+    "poetry": {
+      "id": "poetry",
+      "name": "Poetry",
+      "icon": "✒️",
+      "description": "Poems, verse, spoken word, language, and the craft of expression.",
+      "posts_count": 0,
+      "followers_count": 0,
+      "color": "#a78bfa"
+    },
+    "literature": {
+      "id": "literature",
+      "name": "Literature",
+      "icon": "📖",
+      "description": "Books, literary criticism, reading culture, and enduring written works.",
+      "posts_count": 0,
+      "followers_count": 0,
+      "color": "#f59e0b"
+    },
+    "creativewriting": {
+      "id": "creativewriting",
+      "name": "Creative Writing",
+      "icon": "📝",
+      "description": "Fiction, essays, storytelling, worldbuilding, and writing practice.",
+      "posts_count": 0,
+      "followers_count": 0,
+      "color": "#ec4899"
+    },
+    "art": {
+      "id": "art",
+      "name": "Art",
+      "icon": "🖼️",
+      "description": "Visual art, illustration, painting, sculpture, and creative process.",
+      "posts_count": 0,
+      "followers_count": 0,
+      "color": "#fb7185"
+    },
+    "culture": {
+      "id": "culture",
+      "name": "Culture",
+      "icon": "🏛️",
+      "description": "Communities, customs, ideas, identity, and the changing world around us.",
+      "posts_count": 0,
+      "followers_count": 0,
+      "color": "#f97316"
+    },
+    "personalexperiences": {
+      "id": "personalexperiences",
+      "name": "Personal Experiences",
+      "icon": "🌱",
+      "description": "Lessons, reflections, life stories, and perspectives from lived experience.",
+      "posts_count": 0,
+      "followers_count": 0,
+      "color": "#14b8a6"
+    },
+    "music": {
+      "id": "music",
+      "name": "Music & Sound",
+      "icon": "🎵",
+      "description": "Composition, performance, listening, sound design, and audio culture.",
+      "posts_count": 0,
+      "followers_count": 0,
+      "color": "#38bdf8"
+    },
+    "film": {
+      "id": "film",
+      "name": "Film & Storytelling",
+      "icon": "🎬",
+      "description": "Cinema, documentary, narrative craft, and visual storytelling.",
+      "posts_count": 0,
+      "followers_count": 0,
+      "color": "#8b5cf6"
+    },
+    "photography": {
+      "id": "photography",
+      "name": "Photography",
+      "icon": "📷",
+      "description": "Images, visual narratives, technique, and how we see the world.",
+      "posts_count": 0,
+      "followers_count": 0,
+      "color": "#06b6d4"
+    }
+  },
+  "events": [
+    {
+      "id": "ev-1b1e98cd",
+      "user_id": "9zXDOMN8BWd6HDY763yjEPLCtBF2",
+      "event_type": "click",
+      "post_id": null,
+      "target_user_id": null,
+      "topic": null,
+      "metadata": {
+        "action": "onboarding_completed",
+        "role": "student",
+        "interests": [
+          "ai",
+          "autonomous",
+          "fintech",
+          "robotics",
+          "poetry"
+        ],
+        "tastes": [
+          "deep_dives"
+        ]
+      },
+      "timestamp": "2026-08-16T16:38:14.132499"
+    },
+    {
+      "id": "ev-831fd62b",
+      "user_id": "9zXDOMN8BWd6HDY763yjEPLCtBF2",
+      "event_type": "click",
+      "post_id": "idea-713339c1",
+      "target_user_id": null,
+      "topic": null,
+      "metadata": {
+        "action": "create_post",
+        "topics": [
+          "ai image"
+        ]
+      },
+      "timestamp": "2026-08-16T16:39:47.822871"
+    },
+    {
+      "id": "ev-e64d600c",
+      "user_id": "9zXDOMN8BWd6HDY763yjEPLCtBF2",
+      "event_type": "like",
+      "post_id": "idea-713339c1",
+      "target_user_id": null,
+      "topic": null,
+      "metadata": {
+        "added": true
+      },
+      "timestamp": "2026-08-16T16:39:51.915242"
+    },
+    {
+      "id": "ev-6f3667f9",
+      "user_id": "9zXDOMN8BWd6HDY763yjEPLCtBF2",
+      "event_type": "bulb",
+      "post_id": "idea-713339c1",
+      "target_user_id": null,
+      "topic": null,
+      "metadata": {
+        "added": true
+      },
+      "timestamp": "2026-08-16T16:40:10.404451"
+    },
+    {
+      "id": "ev-637a1a40",
+      "user_id": "9zXDOMN8BWd6HDY763yjEPLCtBF2",
+      "event_type": "bulb",
+      "post_id": "idea-713339c1",
+      "target_user_id": null,
+      "topic": null,
+      "metadata": {
+        "added": false
+      },
+      "timestamp": "2026-08-16T16:40:10.430690"
+    },
+    {
+      "id": "ev-0858d8df",
+      "user_id": "9zXDOMN8BWd6HDY763yjEPLCtBF2",
+      "event_type": "bulb",
+      "post_id": "idea-713339c1",
+      "target_user_id": null,
+      "topic": null,
+      "metadata": {
+        "added": true
+      },
+      "timestamp": "2026-08-16T16:40:10.999116"
+    },
+    {
+      "id": "ev-29a5d4c1",
+      "user_id": "9zXDOMN8BWd6HDY763yjEPLCtBF2",
+      "event_type": "bulb",
+      "post_id": "idea-713339c1",
+      "target_user_id": null,
+      "topic": null,
+      "metadata": {
+        "added": false
+      },
+      "timestamp": "2026-08-16T16:40:11.693507"
+    },
+    {
+      "id": "ev-fc734ac3",
+      "user_id": "9zXDOMN8BWd6HDY763yjEPLCtBF2",
+      "event_type": "click",
+      "post_id": null,
+      "target_user_id": null,
+      "topic": null,
+      "metadata": {
+        "action": "avatar_upload",
+        "url": "/media/avatars/9zXDOMN8BWd6HDY763yjEPLCtBF2/avatar.jpg"
+      },
+      "timestamp": "2026-08-16T16:41:50.299337"
+    },
+    {
+      "id": "ev-d9a486af",
+      "user_id": "dSWgAO98YpgzO1xp6GYCTmNuqhA3",
+      "event_type": "click",
+      "post_id": null,
+      "target_user_id": null,
+      "topic": null,
+      "metadata": {
+        "action": "onboarding_completed",
+        "role": "explorer",
+        "interests": [
+          "poetry",
+          "photography",
+          "quantum"
+        ],
+        "tastes": [
+          "deep_dives",
+          "breakthroughs",
+          "debates",
+          "startups"
+        ]
+      },
+      "timestamp": "2026-08-16T16:44:45.267470"
+    },
+    {
+      "id": "ev-0f5af916",
+      "user_id": "dSWgAO98YpgzO1xp6GYCTmNuqhA3",
+      "event_type": "like",
+      "post_id": "idea-713339c1",
+      "target_user_id": null,
+      "topic": null,
+      "metadata": {
+        "added": true
+      },
+      "timestamp": "2026-08-16T16:44:56.892549"
+    },
+    {
+      "id": "ev-8e738ff4",
+      "user_id": "dSWgAO98YpgzO1xp6GYCTmNuqhA3",
+      "event_type": "follow",
+      "post_id": null,
+      "target_user_id": "9zXDOMN8BWd6HDY763yjEPLCtBF2",
+      "topic": null,
+      "metadata": {
+        "action": "follow",
+        "is_friend": false
+      },
+      "timestamp": "2026-08-16T16:45:15.532412"
+    },
+    {
+      "id": "ev-6df453bf",
+      "user_id": "dSWgAO98YpgzO1xp6GYCTmNuqhA3",
+      "event_type": "bulb",
+      "post_id": "idea-713339c1",
+      "target_user_id": null,
+      "topic": null,
+      "metadata": {
+        "added": true
+      },
+      "timestamp": "2026-08-16T16:45:34.647901"
+    },
+    {
+      "id": "ev-45c71fc7",
+      "user_id": "dSWgAO98YpgzO1xp6GYCTmNuqhA3",
+      "event_type": "like",
+      "post_id": "idea-713339c1",
+      "target_user_id": null,
+      "topic": null,
+      "metadata": {
+        "added": false
+      },
+      "timestamp": "2026-08-16T16:49:13.673852"
+    },
+    {
+      "id": "ev-02f74eb2",
+      "user_id": "dSWgAO98YpgzO1xp6GYCTmNuqhA3",
+      "event_type": "like",
+      "post_id": "idea-713339c1",
+      "target_user_id": null,
+      "topic": null,
+      "metadata": {
+        "added": true
+      },
+      "timestamp": "2026-08-16T16:49:14.435925"
+    },
+    {
+      "id": "ev-124dbaf8",
+      "user_id": "dSWgAO98YpgzO1xp6GYCTmNuqhA3",
+      "event_type": "share",
+      "post_id": "idea-713339c1",
+      "target_user_id": null,
+      "topic": null,
+      "metadata": {},
+      "timestamp": "2026-08-16T16:49:16.652569"
+    },
+    {
+      "id": "ev-5e82e7e3",
+      "user_id": "9zXDOMN8BWd6HDY763yjEPLCtBF2",
+      "event_type": "follow",
+      "post_id": null,
+      "target_user_id": "dSWgAO98YpgzO1xp6GYCTmNuqhA3",
+      "topic": null,
+      "metadata": {
+        "action": "follow",
+        "is_friend": true
+      },
+      "timestamp": "2026-08-16T16:50:08.511318"
+    }
+  ],
+  "conversations": {
+    "9zXDOMN8BWd6HDY763yjEPLCtBF2_dSWgAO98YpgzO1xp6GYCTmNuqhA3": {
+      "conv_id": "9zXDOMN8BWd6HDY763yjEPLCtBF2_dSWgAO98YpgzO1xp6GYCTmNuqhA3",
+      "participants": [
+        "9zXDOMN8BWd6HDY763yjEPLCtBF2",
+        "dSWgAO98YpgzO1xp6GYCTmNuqhA3"
+      ],
+      "created_at": "2026-08-16T16:45:16.822217",
+      "last_message_at": "2026-08-16T16:51:58.993709",
+      "last_message_text": "thanks",
+      "unread": {
+        "dSWgAO98YpgzO1xp6GYCTmNuqhA3": 0,
+        "9zXDOMN8BWd6HDY763yjEPLCtBF2": 0
+      }
+    }
+  },
+  "messages": {
+    "9zXDOMN8BWd6HDY763yjEPLCtBF2_dSWgAO98YpgzO1xp6GYCTmNuqhA3": [
+      {
+        "id": "msg-0f0765837fbe",
+        "conv_id": "9zXDOMN8BWd6HDY763yjEPLCtBF2_dSWgAO98YpgzO1xp6GYCTmNuqhA3",
+        "sender_uid": "dSWgAO98YpgzO1xp6GYCTmNuqhA3",
+        "sender_name": "Bold Highlights",
+        "sender_avatar": "https://lh3.googleusercontent.com/a/ACg8ocJR4QsIjNkDfuDSISGgumNkHbRn3Sbs9Y9Qm2qu0U0Ws41M4MI=s96-c",
+        "text": "hello",
+        "image_url": null,
+        "read_by": [
+          "dSWgAO98YpgzO1xp6GYCTmNuqhA3",
+          "9zXDOMN8BWd6HDY763yjEPLCtBF2"
+        ],
+        "edited": false,
+        "deleted": false,
+        "created_at": "2026-08-16T16:51:09.856527",
+        "edited_at": null
+      },
+      {
+        "id": "msg-6b4db6552695",
+        "conv_id": "9zXDOMN8BWd6HDY763yjEPLCtBF2_dSWgAO98YpgzO1xp6GYCTmNuqhA3",
+        "sender_uid": "9zXDOMN8BWd6HDY763yjEPLCtBF2",
+        "sender_name": "Last clue gamerz",
+        "sender_avatar": "/media/avatars/9zXDOMN8BWd6HDY763yjEPLCtBF2/avatar.jpg",
+        "text": "hey bro whats app",
+        "image_url": null,
+        "read_by": [
+          "9zXDOMN8BWd6HDY763yjEPLCtBF2",
+          "dSWgAO98YpgzO1xp6GYCTmNuqhA3"
+        ],
+        "edited": false,
+        "deleted": false,
+        "created_at": "2026-08-16T16:51:25.473635",
+        "edited_at": null
+      },
+      {
+        "id": "msg-aeda688f2b92",
+        "conv_id": "9zXDOMN8BWd6HDY763yjEPLCtBF2_dSWgAO98YpgzO1xp6GYCTmNuqhA3",
+        "sender_uid": "9zXDOMN8BWd6HDY763yjEPLCtBF2",
+        "sender_name": "Last clue gamerz",
+        "sender_avatar": "/media/avatars/9zXDOMN8BWd6HDY763yjEPLCtBF2/avatar.jpg",
+        "text": "look",
+        "image_url": "/media/posts/upload-aad14f6c8ae1/img_52a8fb8a.jpg",
+        "read_by": [
+          "9zXDOMN8BWd6HDY763yjEPLCtBF2",
+          "dSWgAO98YpgzO1xp6GYCTmNuqhA3"
+        ],
+        "edited": false,
+        "deleted": false,
+        "created_at": "2026-08-16T16:51:34.855354",
+        "edited_at": null
+      },
+      {
+        "id": "msg-57f0bc7c45d7",
+        "conv_id": "9zXDOMN8BWd6HDY763yjEPLCtBF2_dSWgAO98YpgzO1xp6GYCTmNuqhA3",
+        "sender_uid": "dSWgAO98YpgzO1xp6GYCTmNuqhA3",
+        "sender_name": "Bold Highlights",
+        "sender_avatar": "https://lh3.googleusercontent.com/a/ACg8ocJR4QsIjNkDfuDSISGgumNkHbRn3Sbs9Y9Qm2qu0U0Ws41M4MI=s96-c",
+        "text": "great",
+        "image_url": null,
+        "read_by": [
+          "dSWgAO98YpgzO1xp6GYCTmNuqhA3",
+          "9zXDOMN8BWd6HDY763yjEPLCtBF2"
+        ],
+        "edited": false,
+        "deleted": false,
+        "created_at": "2026-08-16T16:51:41.722888",
+        "edited_at": null
+      },
+      {
+        "id": "msg-d3cb1ae22767",
+        "conv_id": "9zXDOMN8BWd6HDY763yjEPLCtBF2_dSWgAO98YpgzO1xp6GYCTmNuqhA3",
+        "sender_uid": "9zXDOMN8BWd6HDY763yjEPLCtBF2",
+        "sender_name": "Last clue gamerz",
+        "sender_avatar": "/media/avatars/9zXDOMN8BWd6HDY763yjEPLCtBF2/avatar.jpg",
+        "text": "bye",
+        "image_url": null,
+        "read_by": [
+          "9zXDOMN8BWd6HDY763yjEPLCtBF2",
+          "dSWgAO98YpgzO1xp6GYCTmNuqhA3"
+        ],
+        "edited": false,
+        "deleted": false,
+        "created_at": "2026-08-16T16:51:48.434317",
+        "edited_at": null
+      },
+      {
+        "id": "msg-281410892aa1",
+        "conv_id": "9zXDOMN8BWd6HDY763yjEPLCtBF2_dSWgAO98YpgzO1xp6GYCTmNuqhA3",
+        "sender_uid": "dSWgAO98YpgzO1xp6GYCTmNuqhA3",
+        "sender_name": "Bold Highlights",
+        "sender_avatar": "https://lh3.googleusercontent.com/a/ACg8ocJR4QsIjNkDfuDSISGgumNkHbRn3Sbs9Y9Qm2qu0U0Ws41M4MI=s96-c",
+        "text": "nice",
+        "image_url": null,
+        "read_by": [
+          "dSWgAO98YpgzO1xp6GYCTmNuqhA3",
+          "9zXDOMN8BWd6HDY763yjEPLCtBF2"
+        ],
+        "edited": false,
+        "deleted": false,
+        "created_at": "2026-08-16T16:51:52.933181",
+        "edited_at": null
+      },
+      {
+        "id": "msg-516ef25759e6",
+        "conv_id": "9zXDOMN8BWd6HDY763yjEPLCtBF2_dSWgAO98YpgzO1xp6GYCTmNuqhA3",
+        "sender_uid": "9zXDOMN8BWd6HDY763yjEPLCtBF2",
+        "sender_name": "Last clue gamerz",
+        "sender_avatar": "/media/avatars/9zXDOMN8BWd6HDY763yjEPLCtBF2/avatar.jpg",
+        "text": "thanks",
+        "image_url": null,
+        "read_by": [
+          "9zXDOMN8BWd6HDY763yjEPLCtBF2",
+          "dSWgAO98YpgzO1xp6GYCTmNuqhA3"
+        ],
+        "edited": false,
+        "deleted": false,
+        "created_at": "2026-08-16T16:51:58.993709",
+        "edited_at": null
+      }
+    ]
+  },
+  "user_conversations": {
+    "dSWgAO98YpgzO1xp6GYCTmNuqhA3": [
+      "9zXDOMN8BWd6HDY763yjEPLCtBF2_dSWgAO98YpgzO1xp6GYCTmNuqhA3"
+    ],
+    "9zXDOMN8BWd6HDY763yjEPLCtBF2": [
+      "9zXDOMN8BWd6HDY763yjEPLCtBF2_dSWgAO98YpgzO1xp6GYCTmNuqhA3"
+    ]
+  },
+  "notifications": {},
+  "notification_reply_windows": {},
+  "notification_mention_windows": {}
+}
