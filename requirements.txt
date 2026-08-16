@@ -1,0 +1,19 @@
+fastapi>=0.110.0
+uvicorn[standard]>=0.28.0
+pydantic>=2.6.0
+pyjwt[crypto]>=2.8.0
+requests>=2.31.0
+cryptography>=42.0.0
+python-multipart>=0.0.9
+aiofiles>=23.2.0
+Pillow>=10.0.0
+
+# ─── AI / ML ──────────────────────────────────────────────────────────────────
+sentence-transformers>=2.7.0    # embedding + cross-encoder (e5-small, bge-reranker)
+torch>=2.1.0                    # CPU build; GPU optional
+numpy>=1.24.0
+scikit-learn>=1.3.0             # cosine, utils
+hdbscan>=0.8.33                 # density clustering (auto cluster count)
+faiss-cpu>=1.7.4                # ANN index for >5k posts (optional, degrades gracefully)
+tf-keras>=2.18.0                # Required by sentence-transformers when TensorFlow is present
+transformers>=4.42.0
